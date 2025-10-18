@@ -36,7 +36,7 @@ const duneRise = localFont({
 
 
 export const metadata: Metadata = {
-  title: "Custom Homepage",
+  title: "~~ New Page ~~",
   description: "My custom homepage",
 };
 
